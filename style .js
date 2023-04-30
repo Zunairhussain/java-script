@@ -26,5 +26,101 @@
 // }
 
 
-var studentsNames =["Umair","Ahmad","Abdullah"]
-studentsNames.push=["Naveed"]
+// var studentsNames =["Umair","Ahmad","Abdullah"]
+// studentsNames.push=["Naveed"]
+
+// var number =[10,20,30,40]
+
+// var newNumber = number. slice(1,3)
+
+// console.log('=========================================');
+// console.log("newNumber",newNumber);
+// console.log('=========================================');
+
+
+
+
+
+
+// var grade = "A"
+
+// switch (grade) {
+//     case "A":
+//         console.log('=========================================');
+//         console.log("Grade is A"); 
+//         console.log('=========================================');
+
+//         break;
+//     case "B"
+//         console.log('=========================================');
+//     console.log("Grade is B"); 
+//     console.log('=========================================');
+
+//         break;
+//     case "C":
+//         console.log('=========================================');
+//         console.log("Grade is C"); 
+//         console.log('=========================================');
+
+
+//     default:
+//         console.log('=========================================');
+//         console.log("Grade is default"); 
+//         console.log('=========================================');
+
+//         break;
+// }
+
+var day = "tuesday"
+
+console.log(performance.now());
+
+switch (day) {
+    case "Sunday":
+        console.log('=========================================');
+        console.log("Grade is A"); 
+        console.log('=========================================');
+
+        break;
+    case "Monday" :
+        console.log('=========================================');
+    console.log("Grade is B"); 
+    console.log('=========================================');
+
+        break;
+    case "Tuesday":
+        console.log('=========================================');
+        console.log("Grade is C"); 
+        console.log('=========================================');
+
+
+    default:
+        console.log('=========================================');
+        console.log("Grade is default"); 
+        console.log('=========================================');
+
+        console.log(performance.now());
+
+
+
+        break;
+
+
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
